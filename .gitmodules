@@ -1,6 +1,3 @@
-[submodule "aula"]
-	path = aula
-	url = https://github.com/Herebers/aula.git
 [submodule "Cadastro-de-Estudantes"]
 	path = Cadastro-de-Estudantes
 	url = https://github.com/Herebers/Cadastro-de-Estudantes.git
