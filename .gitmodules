@@ -4,3 +4,6 @@
 [submodule "E-cookbook"]
 	path = E-cookbook
 	url = https://github.com/Herebers/E-cookbook.git
+[submodule "register_employees"]
+	path = register_employees
+	url = https://github.com/Herebers/register_employees.git
